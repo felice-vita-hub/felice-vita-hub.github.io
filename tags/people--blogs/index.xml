@@ -1,4 +1,468 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>People &amp; Blogs on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</title><link>https://felice-vita-hub.github.io/tags/people--blogs/</link><description>Recent content in People &amp; Blogs on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>VIRAL BEAT</copyright><lastBuildDate>Thu, 15 Oct 2026 02:47:33 +0000</lastBuildDate><atom:link href="https://felice-vita-hub.github.io/tags/people--blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>【People &amp; Blogs】YouTube人気動画ランキング TOP3 - 2026-10-15</title><link>https://felice-vita-hub.github.io/post/youtube-people-and-blogs-2026-10-15/</link><pubDate>Thu, 15 Oct 2026 02:47:33 +0000</pubDate><guid>https://felice-vita-hub.github.io/post/youtube-people-and-blogs-2026-10-15/</guid><description>&lt;h2 id="-people--blogs-急上昇ランキング-top3"&gt;🎬 People &amp;amp; Blogs 急上昇ランキング TOP3
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>People &amp; Blogs on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</title><link>https://felice-vita-hub.github.io/tags/people--blogs/</link><description>Recent content in People &amp; Blogs on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>VIRAL BEAT</copyright><lastBuildDate>Sun, 18 Oct 2026 02:37:08 +0000</lastBuildDate><atom:link href="https://felice-vita-hub.github.io/tags/people--blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>【People &amp; Blogs】YouTube人気動画ランキング TOP3 - 2026-10-18</title><link>https://felice-vita-hub.github.io/post/youtube-people-and-blogs-2026-10-18/</link><pubDate>Sun, 18 Oct 2026 02:37:08 +0000</pubDate><guid>https://felice-vita-hub.github.io/post/youtube-people-and-blogs-2026-10-18/</guid><description>&lt;h2 id="-people--blogs-急上昇ランキング-top3"&gt;🎬 People &amp;amp; Blogs 急上昇ランキング TOP3
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;更新&lt;/strong&gt;: 2026年10月18日 / &lt;strong&gt;対象動画&lt;/strong&gt;: 3本 / &lt;strong&gt;総視聴数&lt;/strong&gt;: 1,482,144回&lt;/p&gt;
+&lt;h3 id="1位-love-me-madlyjugyonel-verebidan-the-live-2026-シャッフルユニット"&gt;1位: Love Me Madly(Jugyonel ver.)【EBiDAN THE LIVE 2026 シャッフルユニット】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/hNA6fHFNvoY?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;データ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;チャンネル&lt;/td&gt;
+&lt;td&gt;EBiDAN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;視聴数&lt;/td&gt;
+&lt;td&gt;796,366回&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;いいね&lt;/td&gt;
+&lt;td&gt;61,638&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;総合ランキング&lt;/td&gt;
+&lt;td&gt;6位&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=hNA6fHFNvoY" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="2位-生スバル閲覧注意初見トルネコやるしゅばあああああああああああtornekos-great-adventure-mystery-dungeonネタバレあり"&gt;2位: 【#生スバル】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko&amp;rsquo;s Great Adventure: Mystery Dungeon【ネタバレあり】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/2aY6d7tMDOs?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;データ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;チャンネル&lt;/td&gt;
+&lt;td&gt;Subaru Ch. 大空スバル&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;視聴数&lt;/td&gt;
+&lt;td&gt;586,931回&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;いいね&lt;/td&gt;
+&lt;td&gt;10,210&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;総合ランキング&lt;/td&gt;
+&lt;td&gt;10位&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=2aY6d7tMDOs" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="3位-kvi-baba--愛鎚-live-at-yokohama-arena-20260827"&gt;3位: Kvi Baba / 愛鎚 (Live at YOKOHAMA ARENA 2026.08.27)
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/BfrlNn1aAKg?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;データ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;チャンネル&lt;/td&gt;
+&lt;td&gt;Kvi Baba&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;視聴数&lt;/td&gt;
+&lt;td&gt;98,847回&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;いいね&lt;/td&gt;
+&lt;td&gt;1,915&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;総合ランキング&lt;/td&gt;
+&lt;td&gt;40位&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=BfrlNn1aAKg" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;次回更新&lt;/strong&gt;: 明日 09:00予定&lt;/p&gt;</description></item><item><title>【People &amp; Blogs】YouTube人気動画ランキング TOP3 - 2026-10-15</title><link>https://felice-vita-hub.github.io/post/youtube-people-and-blogs-2026-10-15/</link><pubDate>Thu, 15 Oct 2026 02:47:33 +0000</pubDate><guid>https://felice-vita-hub.github.io/post/youtube-people-and-blogs-2026-10-15/</guid><description>&lt;h2 id="-people--blogs-急上昇ランキング-top3"&gt;🎬 People &amp;amp; Blogs 急上昇ランキング TOP3
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;更新&lt;/strong&gt;: 2026年10月15日 / &lt;strong&gt;対象動画&lt;/strong&gt;: 3本 / &lt;strong&gt;総視聴数&lt;/strong&gt;: 209,461回&lt;/p&gt;
 &lt;h3 id="1位-iiondo---転生したらチート級の顔面でアイドルになり世界を制覇する-official-lyric-video"&gt;1位: iiONDO - 転生したらチート級の顔面でアイドルになり世界を制覇する (Official Lyric Video)
 &lt;/h3&gt;
